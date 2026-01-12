@@ -1,4 +1,4 @@
-# :computer: Página web Patos Burguer - Backend
+# :computer: Página web Patos Burguer - frontend
 ---
 
 ## Explicando o projeto
@@ -9,7 +9,8 @@ Este projeto teve o objetivo de criar uma página no formato linktree, reunindo 
 ## :clipboard: Tecnologias utilizadas
 - Next
 - JavaScript
-- Python
-- Node
+- React
+- HTml
+- Css
 ---
 
