@@ -1,7 +1,8 @@
-import axios from 'axios';
+import axios from "axios";
 
 const api = axios.create({
-    baseURL: 'http://localhost:4444'
-})
+  baseURL:
+    "patos-burguers-backend-gtdn489ct-victors-projects-b875633f.vercel.app",
+});
 
 export default api;
