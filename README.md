@@ -1,7 +1,7 @@
 # :computer: Página web Patos Burguer - frontend
 ---
 :link: link do projeto:
- https://patosburguerquest.netlify.app/
+https://patos-burguers.vercel.app/
 
 ## Explicando o projeto
 
